@@ -10,10 +10,14 @@ html, body{
     display: flex;
     justify-content: center;
 }
+.div-oof a{
+    text-decoration: none;
+}
 .oof{
     text-align: center;
     font-size: 100%;
     padding: 0px 5px 0px 5px;
+    margin: 0;
 }
 .oof:hover{
     font-style: italic;
